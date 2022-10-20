@@ -55,8 +55,8 @@ solana balance
 ```
 
 ## Candy Machine - Sugar
-In the same folder have the "devnet.json" conf file tree and the folder containing the assets,
-[https://docs.metaplex.com/developer-tools/sugar/tutorials/my-first-candy-machine](https://docs.metaplex.com/developer-tools/sugar/tutorials/my-first-candy-machine)
+In the same folder have the "devnet.json" conf file tree and the folder containing the assets, 
+https://docs.metaplex.com/developer-tools/sugar/tutorials/my-first-candy-machine
 
 Créer la config
 ```
@@ -89,9 +89,9 @@ Check informations
 sugar show
 ```
 
-* Create .env and modify REACT_APP_CANDY_MACHINE_ID
+Create .env and modify REACT_APP_CANDY_MACHINE_ID
 
-* Airdrop some tokens to get started
+Airdrop some tokens to get started
 ```
 solana airdrop 1 <RECIPIENT_ACCOUNT_ADDRESS> --url https://api.devnet.solana.com
 ```
